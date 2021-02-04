@@ -13,6 +13,10 @@ Trading indicator's implementation in python
 ... 25.49
 ```
 
+### supported indicators:
+
+- [simple moving average (sma) ](https://github.com/coci/trindipy/blob/main/docs/simple_moving_average.md)
 
 ### contributtion :
+
 feel free to MR to repository :)
